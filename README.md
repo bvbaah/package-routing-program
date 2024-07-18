@@ -3,7 +3,7 @@
 This project showcases the development of an efficient routing algorithm for the Western Governors University Parcel Service (WGUPS). The solution involves implementing non-linear data structures, hashing algorithms, and self-adjusting heuristics to ensure all packages are delivered on time while maintaining a total travel distance under 140 miles.
 
 ## Competencies
-- **Non-Linear Data Structures:** Developed efficient software using non-linear data structures.
+**Non-Linear Data Structures:** Developed efficient software using non-linear data structures.
 - **Hashing Algorithms and Structures:** Implemented hashing techniques for efficient searching.
 - **Self-Adjusting Heuristics:** Improved performance using self-adjusting heuristics.
 
